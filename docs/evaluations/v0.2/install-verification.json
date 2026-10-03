@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "installed_path": "~/.codex/skills/campus-relations",
+  "runtime_files": 14,
+  "runtime_bytes": 116996,
+  "source_matches_installed": true,
+  "original_skill_unchanged": true,
+  "skill_sha256": "864ac951650f1d38dc65292ada3cd916492b132925a835c91ecc9eae36bebe00",
+  "runtime_sha256": {
+    "SKILL.md": "864ac951650f1d38dc65292ada3cd916492b132925a835c91ecc9eae36bebe00",
+    "LICENSE": "20566785213933466b663dc63a809816d8b047ce632318a5f7e025134b8d85f7",
+    "NOTICE.md": "d3a020c17f795141a886f043b51c93717fe77f67540931ed83f3722486eab681",
+    "agents/openai.yaml": "4b35638fc2580d5e323fbe6e4562d94381fdb9531431d721d11ea67bdbd258b1",
+    "references/knowledge/evidence.md": "9332d4d8bd8d7ae9d531c5e8e699f098354ad4489893ea150d32afb614766f6f",
+    "references/practical/campus-romance.md": "1b62b2aa79f4080ef4c2ab9c9da4fbb2a7732780466ec77b23d5a572e7758011",
+    "references/practical/chat-analysis.md": "806b740bd6c49670542000a340c41b8099a8a5a2c3d4a46c6f9971e410acca28",
+    "references/practical/conversation-playbook.md": "c857447543e68bf445d6505012fd5c20844b87d46fcdb215f5c519bf4ddcfaca",
+    "references/practical/peer-relations.md": "95a822e31e5d126a1ffe8d729198441924b3a0d495b0f6d9470ec08345afbbda",
+    "references/practical/repair-and-boundaries.md": "79325913a259ee91fb5b4698ed994bec33cfe579f8acac05170951d4607f2dbb",
+    "references/practical/social-calibration.md": "97e4b33cd1361b820f67b336c351e64ba5f047408792b2e489526ac36ce48b69",
+    "references/practical/teacher-relations.md": "def5d4894cd57621832302265e02f4115dc4b2419b206e9d45501df45bbe46a2",
+    "scripts/install_skill.py": "24676abc007dced15287211ce042b685f5225a780d2dd7cbb2c66ff9981f83f8",
+    "scripts/validate_skill.py": "7affb53d928485992653b584622305bd2d2993dd94824561a8960d47a2388f96"
+  }
+}
