@@ -1,0 +1,4 @@
+interface:
+  display_name: "校园关系军师"
+  short_description: "帮助大学生处理师生、同学与恋爱沟通，贴近本人表达，结合实际回复继续协商"
+  default_prompt: "使用 $campus-relations 帮我处理这件校园关系中的事，按我的需要倾听、分析或写一句自然的回复。"
