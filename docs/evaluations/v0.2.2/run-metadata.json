@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-03",
+  "release": "v0.2.2",
+  "entry_sha256_final": "f1ef1c3dabeefb79bd4b4d67842b52724b8c2e7eb1d6cee1485ffd42456f5c14",
+  "model": "Inherited current session settings; no explicit model override or reproducible snapshot ID recorded.",
+  "method": "Three independent agents, one conversation each. User turns supplied individually after actual replies, without rubric or target answers. A separate agent reviewed all transcripts against the rubric.",
+  "cases": {
+    "M1": {
+      "user_turns": 5,
+      "assistant_answers": 5,
+      "transcript": "m1-transcript.md",
+      "result": "pass"
+    },
+    "M2": {
+      "user_turns": 5,
+      "assistant_answers": 5,
+      "transcript": "m2-transcript.md",
+      "result": "pass"
+    },
+    "M3": {
+      "user_turns": 5,
+      "assistant_answers": 5,
+      "transcript": "m3-transcript.md",
+      "result": "pass"
+    }
+  },
+  "version_boundary": "M1 and M2 first turns preceded one entry wording revision. Before their second turns the agents were instructed to reread the finalized SKILL.md. M3 used the finalized entry throughout. No full restart of M1/M2 was performed.",
+  "entry_revision": "Broadened adjustment condition from only changed goals/arrangements/willingness to newly available facts and feedback. No reference changes during the conversations.",
+  "scope": [
+    "simulated multi-turn responses",
+    "human-independent agent review; root review"
+  ],
+  "not_tested": [
+    "real relationship outcomes",
+    "prior 28 and 6 single-turn suites",
+    "cross-model stability",
+    "automatic invocation",
+    "real screenshots or ChatLab",
+    "roleplay pause/resume",
+    "cross-chat memory"
+  ]
+}
