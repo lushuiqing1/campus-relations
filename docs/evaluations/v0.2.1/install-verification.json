@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "runtime_files": 14,
+  "runtime_bytes": 121290,
+  "skill_sha256": "99dc46670163e162c2655a247b0a1843cde0409546810930514dfd4b61648ed2",
+  "source_matches_installed": true,
+  "original_goutoujunshi_unchanged": true,
+  "original_humanizer_zh_unchanged": true,
+  "runtime_sha256": {
+    "SKILL.md": "99dc46670163e162c2655a247b0a1843cde0409546810930514dfd4b61648ed2",
+    "LICENSE": "7fa7dbbdf58ab6a16ad957170f529e1effc02459dc41b80d67e0adbc2e028a93",
+    "NOTICE.md": "aaedc4bd4a85fb324e839631155129bdfd5693cc2580a1769cdd0b7e69e1485c",
+    "agents/openai.yaml": "4b35638fc2580d5e323fbe6e4562d94381fdb9531431d721d11ea67bdbd258b1",
+    "references/knowledge/evidence.md": "9332d4d8bd8d7ae9d531c5e8e699f098354ad4489893ea150d32afb614766f6f",
+    "references/practical/campus-romance.md": "1b62b2aa79f4080ef4c2ab9c9da4fbb2a7732780466ec77b23d5a572e7758011",
+    "references/practical/chat-analysis.md": "806b740bd6c49670542000a340c41b8099a8a5a2c3d4a46c6f9971e410acca28",
+    "references/practical/conversation-playbook.md": "c44568d10526803c3e1c1d1e0250d3f19b30e5ff3e83bd76b66b5782d115801c",
+    "references/practical/peer-relations.md": "95a822e31e5d126a1ffe8d729198441924b3a0d495b0f6d9470ec08345afbbda",
+    "references/practical/repair-and-boundaries.md": "79325913a259ee91fb5b4698ed994bec33cfe579f8acac05170951d4607f2dbb",
+    "references/practical/social-calibration.md": "97e4b33cd1361b820f67b336c351e64ba5f047408792b2e489526ac36ce48b69",
+    "references/practical/teacher-relations.md": "def5d4894cd57621832302265e02f4115dc4b2419b206e9d45501df45bbe46a2",
+    "scripts/install_skill.py": "24676abc007dced15287211ce042b685f5225a780d2dd7cbb2c66ff9981f83f8",
+    "scripts/validate_skill.py": "7affb53d928485992653b584622305bd2d2993dd94824561a8960d47a2388f96"
+  }
+}
